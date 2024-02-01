@@ -27,4 +27,9 @@ User controlled program using WASD to sketch
 ![Sketch](https://github.com/myschoolac/programmingportfolio2.0/blob/main/images/Screenshot%202024-02-01%20at%209.08.54%20AM.png?raw=true)
 [SourceCode](https://github.com/myschoolac/programmingportfolio2.0/blob/main/src/Etch_A_sketch.zip)
 
+### DriveCar
+OOP graphics based calculator with basic addition and subtraction along with multiplication, division, squares, and modulo
+![]()
+[]()
+
 
