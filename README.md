@@ -19,9 +19,9 @@ OOP graphics based calculator with basic addition and subtraction along with mul
 ![Calculator](https://github.com/myschoolac/programmingportfolio2.0/blob/main/images/c1.png?raw=true)
 [SourceCode](https://github.com/myschoolac/programmingportfolio2.0/blob/main/src/Button7.zip)
 
-### Calculator
-OOP graphics based calculator with basic addition and subtraction along with multiplication, division, squares, and modulo
-![Calculator](https://github.com/myschoolac/programmingportfolio2.0/blob/main/images/c1.png?raw=true)
-[SourceCode](https://github.com/myschoolac/programmingportfolio2.0/blob/main/src/Button7.zip)
+### EtchASketch
+User controlled program using WASD to sketch
+![]()
+[SourceCode]()
 
 
