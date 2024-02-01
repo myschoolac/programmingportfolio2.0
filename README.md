@@ -32,4 +32,9 @@ Program incorporating random elements and classes allowing for multiple cars dri
 ![CarsDriving](https://github.com/myschoolac/programmingportfolio2.0/blob/main/images/Screenshot%202024-02-01%20at%209.22.17%20AM.png?raw=true)
 [SourceCode]()
 
+### NumberGuessingGame
+Program taking user input to guess a randomly generated number
+![NumberGuess](https://github.com/myschoolac/programmingportfolio2.0/blob/main/images/Numberguess.png?raw=true)
+[SourceCode]()
+
 
