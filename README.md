@@ -39,5 +39,6 @@ Program taking user input to guess a randomly generated number
 
 ### HotTrail
 Program implementing a side scroller game with obstacles to dodge
-![NumberGuess]()
+![StartScreen](https://github.com/DONALD-DUNK/SideScroller/raw/main/images/Screenshot%202024-03-01%20at%2010.58.01%20AM.png?raw=true)
+![](https://github.com/DONALD-DUNK/SideScroller/raw/main/images/Screenshot%202024-03-01%20at%2010.11.20%20AM.png?raw=true)
 [SourceCode]()
