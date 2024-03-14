@@ -37,4 +37,7 @@ Program taking user input to guess a randomly generated number
 ![NumberGuess](https://github.com/myschoolac/programmingportfolio2.0/blob/main/images/Numberguess.png?raw=true)
 [SourceCode](https://github.com/myschoolac/programmingportfolio2.0/blob/main/src/main%20(3)%20(2).py.zip)
 
-
+### HotTrail
+Program implementing a side scroller game with obstacles to dodge
+![NumberGuess]()
+[SourceCode]()
