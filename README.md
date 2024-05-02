@@ -42,6 +42,7 @@ Program implementing a side scroller game with obstacles to dodge
 ![StartScreen](https://github.com/DONALD-DUNK/SideScroller/raw/main/images/Screenshot%202024-03-01%20at%2010.58.01%20AM.png?raw=true)
 ![](https://github.com/DONALD-DUNK/SideScroller/raw/main/images/Screenshot%202024-03-01%20at%2010.11.20%20AM.png?raw=true)
 [SourceCode](https://github.com/myschoolac/programmingportfolio2.0/blob/main/src/HotTrail-main.zip)
+[LinkToGroupRep](https://github.com/DONALD-DUNK/HotTrail.git)
 
 ### Individual Project
 Program implementing a gamehub where the user can interact with games like rockpaperscissors, war, coinflip, hangman
