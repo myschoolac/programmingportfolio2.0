@@ -1,7 +1,8 @@
 # Bikram Parmar | Programming Portfolio
 
 ## Certifications
-* Programming 1 USOE Certification
+* [Bikram Parmar_Computer Programming I_12152023.pdf](https://github.com/myschoolac/programmingportfolio2.0/files/15337695/Bikram.Parmar_Computer.Programming.I_12152023.pdf)
+
 * [Bikram Parmar_Computer Programming 2 Python_05162024.pdf](https://github.com/myschoolac/programmingportfolio2.0/files/15337687/Bikram.Parmar_Computer.Programming.2.Python_05162024.pdf)
 
 
