@@ -2,6 +2,7 @@
 
 ## Certifications
 * Programming 1 USOE Certification
+* Programming 2 USOE Certification
 
 ## Group Project 
 
