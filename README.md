@@ -2,7 +2,8 @@
 
 ## Certifications
 * Programming 1 USOE Certification
-* Programming 2 USOE Certification
+* [Bikram Parmar_Computer Programming 2 Python_05162024.pdf](https://github.com/myschoolac/programmingportfolio2.0/files/15337687/Bikram.Parmar_Computer.Programming.2.Python_05162024.pdf)
+
 
 ## Group Project 
 
